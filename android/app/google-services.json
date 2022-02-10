@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "596685871636",
+    "project_id": "godownmanager",
+    "storage_bucket": "godownmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596685871636:android:d848e5d8b4fbf775d26501",
+        "android_client_info": {
+          "package_name": "com.example.godownmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596685871636-d38is68o2m8ket33fnh9l1r1861teph9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.godownmanager",
+            "certificate_hash": "0cd109fa7bcdd41978aaad1ffb9743d4f8c9d112"
+          }
+        },
+        {
+          "client_id": "596685871636-2mdf9bar1eqpadnfr4o4spaq3416fv5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA2EaNcmJKHvp5pZJzERHp9mrjHIvq4b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596685871636-2mdf9bar1eqpadnfr4o4spaq3416fv5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596685871636-gdrc3mc0j7ob1sfkgrsjsp076gor9v6g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.godownmanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

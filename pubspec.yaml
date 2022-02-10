@@ -1,0 +1,30 @@
+name: godownmanager
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  # import firebase 
+  firebase_core: ^1.12.0
+  # cloud firestore 
+  cloud_firestore: ^3.1.7
+  firebase_storage: ^8.0.3
+  
+  #icons
+  community_material_icon: ^5.9.55
+  #pick file
+  file_picker: ^3.0.1 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
